@@ -11,8 +11,11 @@ import { AlertProvider } from './context/alert/AlertContext';
 
 function App() {
   return (
+    // these are contexts
+    // Used to help us Use Variables and Functions in other files
     <GithubProvider>
       <AlertProvider>
+        {/* in React in order to route you need to put your content in Router module */}
         <Router>
           <div className="flex flex-col justify-between h-screen">
             <NavBar />
