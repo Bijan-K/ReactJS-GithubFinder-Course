@@ -2,10 +2,8 @@
 
 Final project of brad traversy's react course.
 
----bash
+```bash
 npm i 
----
 
----bash
 npm start
----
+```
