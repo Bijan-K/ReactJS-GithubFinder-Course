@@ -1,6 +1,6 @@
 # GithubFinder-Course
 
-Final project of brad traversy's react course.
+The final project of brad traversy's react course.
 
 ```bash
 npm i 
