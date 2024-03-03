@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowerRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { FaGithub } from 'react-icons/fa';
 
 const NavBar = ({ title }) => {
