@@ -6,7 +6,7 @@ const RepoList = ({ repos }) => {
     <div className="rounded-lg shadow-lg card bg-base-100">
       <div className="card-boy">
         <h2 className="text-3xl my-4 font-bold card-title">
-          Latest Repositories
+          30 Public Repositories
         </h2>
         {repos.map((repo) => (
           <RepoItem key={repo.id} repo={repo} />
